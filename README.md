@@ -6,3 +6,7 @@ This the project for intern to familiar with git, maven and eclipse editor to se
 * The war file should be built when run mvn clean install, then deploy to wildfly to server the request
 * Run the whole thing with maven would be great.
 * Research to use other framework to test servlet would be great. 
+
+2016/6/1
+Request for merging...
+change....
